@@ -1,0 +1,27 @@
+h1{
+    
+    color:grey;
+    
+  }
+  /*{
+    border:solid;
+  }*/
+  .header{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+  }
+  h2{
+    color:white;
+    background-color: slategray;
+  }
+
+.grid{
+background-color: silver;
+display:flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+
+}
+
+
